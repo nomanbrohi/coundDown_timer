@@ -1,6 +1,6 @@
 "use client"; // Enables client-side rendering for this component
 
-import { useState, useRef, useEffect, ChangeEvent, HtmlHTMLAttributes } from "react"; // Import React hooks and types
+import { useState, useRef, ChangeEvent } from "react"; // Import React hooks and types
 import { Input } from "@/components/ui/input"; // Import Input from your components
 import { Button } from "@/components/ui/button"; // Import Button from your components
 
